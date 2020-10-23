@@ -39,7 +39,7 @@
     "require": {
         "php": ">=7.0.0",
         "magento/framework": "^102.0 || ^103.0",
-        "magento/module-developer": "^100.3.3",
+        "magento/module-developer": "^100.3.1",
         "monolog/monolog": "^1.16"
     },
     "require-dev": {
